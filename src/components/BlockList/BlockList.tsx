@@ -44,7 +44,7 @@ function BlockList({ blocks }: any) {
 
             // Colorize left border derived from author credit account.
             const authorHashStyle = {
-              borderLeft: `1em solid #${b.miner.substring(2, 8)}`,
+              //borderLeft: `1em solid #${b.miner.substring(2, 8)}`,
             };
 
             // Tally transactions which create contracts vs transactions with addresses.

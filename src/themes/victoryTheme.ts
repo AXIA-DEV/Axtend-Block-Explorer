@@ -8,7 +8,7 @@ const baseLabelStyles = {
   fontSize: 12,
   letterSpacing: "normal",
   padding: 10,
-  fill: grey[400],
+  fill: grey[800],
   stroke: "transparent",
   strokeWidth: 0,
 };
@@ -22,7 +22,7 @@ const getTheme = (theme: Theme) => ({
   axis: {
     style: {
       axis: {
-        stroke: grey[400],
+        stroke: grey[600],
         strokeWidth: 2,
       },
       axisLabel: {
@@ -32,11 +32,11 @@ const getTheme = (theme: Theme) => ({
         stroke: "none",
       },
       ticks: {
-        stroke: grey[400],
+        stroke: grey[800],
       },
       tickLabels: {
         padding: 5,
-        fill: grey[400],
+        fill: grey[600],
         strokeWidth: 1,
       },
     },
