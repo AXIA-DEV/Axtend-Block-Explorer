@@ -43,9 +43,9 @@ nvm use 16.13.0
 ### Installation
 Clone/ download the project, and install dependencies.
 ```bash
-git clone URL
+git clone git@github.com:AXIA-DEV/Axtend-Block-Explorer.git
 
-cd expedition
+cd Axtend-Block-Explorer
 
 npm install
 
