@@ -13,7 +13,7 @@ export default function() {
       rpc: ["https://www.ethercluster.com/etc"],
     },*/
     {
-      name: "Axtend BetaNet",
+      name: "AXtend Testnet",
       network: "testnet",
       rpc: ["https://rpc.bob.axia.zeeve.net"],
     },

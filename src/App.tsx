@@ -327,19 +327,19 @@ function App(props: any) {
                   </IconButton>
                 </Tooltip>
                 <LanguageMenu />
-                <Tooltip title={t("JSON-RPC API Documentation") as string}>
+                <Tooltip title={t("AXtend Documentation") as string}>
                   <IconButton
                     onClick={
                       () =>
                         window.open(
-                          "https://playground.open-rpc.org/?schemaUrl=https://raw.githubusercontent.com/etclabscore/ethereum-json-rpc-specification/master/openrpc.json"
+                          "https://wiki.axiacoin.network/docs/learn-common-goods-chains"
                         ) //tslint:disable-line
                     }
                   >
                     <NotesIcon />
                   </IconButton>
                 </Tooltip>
-                <Tooltip title={t("Axtend Explorer Github") as string}>
+                <Tooltip title={t("AXtend Explorer Github") as string}>
                   <IconButton
                     onClick={() =>
                       window.open("https://github.com/AXIA-DEV/Axtend-Block-Explorer")
