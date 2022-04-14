@@ -271,7 +271,7 @@ function App(props: any) {
                     </Grid>
                     <Grid>
                       <Typography color="textSecondary" variant="h6">
-                        {t("Axtend Block Explorer")}
+                        {t("AXtend Block Explorer")}
                       </Typography>
                     </Grid>
                   </Grid>
