@@ -1,3 +1,4 @@
+![AXtend](./public/AXIA-blue-logo.png)
 # Axtend Block Explorer
 
 <!-- about the project -->
